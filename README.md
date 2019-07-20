@@ -1,0 +1,1 @@
+# handlebars-express-sequelize-boilerplate
